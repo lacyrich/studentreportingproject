@@ -1,0 +1,15 @@
+C:\Users\lacyr\source\repos\oop-reporting-lacyrich\bin\Debug\net6.0\oop-reporting-lacyrich.exe
+C:\Users\lacyr\source\repos\oop-reporting-lacyrich\bin\Debug\net6.0\oop-reporting-lacyrich.deps.json
+C:\Users\lacyr\source\repos\oop-reporting-lacyrich\bin\Debug\net6.0\oop-reporting-lacyrich.runtimeconfig.json
+C:\Users\lacyr\source\repos\oop-reporting-lacyrich\bin\Debug\net6.0\oop-reporting-lacyrich.dll
+C:\Users\lacyr\source\repos\oop-reporting-lacyrich\bin\Debug\net6.0\oop-reporting-lacyrich.pdb
+C:\Users\lacyr\source\repos\oop-reporting-lacyrich\obj\Debug\net6.0\oop-reporting-lacyrich.csproj.AssemblyReference.cache
+C:\Users\lacyr\source\repos\oop-reporting-lacyrich\obj\Debug\net6.0\oop-reporting-lacyrich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacyr\source\repos\oop-reporting-lacyrich\obj\Debug\net6.0\oop-reporting-lacyrich.AssemblyInfoInputs.cache
+C:\Users\lacyr\source\repos\oop-reporting-lacyrich\obj\Debug\net6.0\oop-reporting-lacyrich.AssemblyInfo.cs
+C:\Users\lacyr\source\repos\oop-reporting-lacyrich\obj\Debug\net6.0\oop-reporting-lacyrich.csproj.CoreCompileInputs.cache
+C:\Users\lacyr\source\repos\oop-reporting-lacyrich\obj\Debug\net6.0\oop-reporting-lacyrich.dll
+C:\Users\lacyr\source\repos\oop-reporting-lacyrich\obj\Debug\net6.0\refint\oop-reporting-lacyrich.dll
+C:\Users\lacyr\source\repos\oop-reporting-lacyrich\obj\Debug\net6.0\oop-reporting-lacyrich.pdb
+C:\Users\lacyr\source\repos\oop-reporting-lacyrich\obj\Debug\net6.0\oop-reporting-lacyrich.genruntimeconfig.cache
+C:\Users\lacyr\source\repos\oop-reporting-lacyrich\obj\Debug\net6.0\ref\oop-reporting-lacyrich.dll
